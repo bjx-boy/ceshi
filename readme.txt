@@ -7,4 +7,8 @@ hhhhhhhhh
 
 ni shi shuis husi hs u
 
-thsi master xiu gai
+<<<<<<< HEAD
+thsi master and dev xiu gai
+=======
+
+>>>>>>> dev
